@@ -31,11 +31,7 @@ I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 
 
 <h1 align="center">My GitHub Stats</h1>
 <div>
-  <div style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical" alt="GitHub İstatistikleri">
-  </div>
-  <div style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical" alt="En Çok Kullanılan Diller">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical" alt="GitHub İstatistikleri" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" style="width: 50%;">
 </div>
 
