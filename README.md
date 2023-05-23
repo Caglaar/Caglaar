@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 42 Ecole.
+## I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 42 Ecole.
 
 <h1 align="center">Social Media</h1>
 
@@ -31,7 +31,7 @@ I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 
 
 <h1 align="center">My GitHub Stats</h1>
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&hide=contribs,stars&theme=radical" alt="GitHub İstatistikleri" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&hide=contribs&theme=radical" alt="GitHub İstatistikleri" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" width="400">
 </p>
 
