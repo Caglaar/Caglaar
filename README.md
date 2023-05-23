@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 42 Ecole.
+### I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 42 Ecole.
 
 <h1 align="center">Social Media</h1>
 
