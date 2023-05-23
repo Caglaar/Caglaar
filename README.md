@@ -30,4 +30,4 @@ I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 
 </p>
 
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=github-Caglaar&show_icons=true&theme=radical)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical)
