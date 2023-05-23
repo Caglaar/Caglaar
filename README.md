@@ -29,6 +29,13 @@ I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="40">
 </p>
 
+<h1 align="center">My GitHub Stats</h1>
+<div>
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical" alt="GitHub İstatistikleri">
+  </div>
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical" alt="En Çok Kullanılan Diller">
+  </div>
+</div>
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical)
