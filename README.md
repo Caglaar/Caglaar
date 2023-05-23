@@ -30,7 +30,7 @@ I'm Muhammed Emin, I'm a software engineering student in Kocaeli University and 
 </p>
 
 <h1 align="center">My GitHub Stats</h1>
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical) | ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical) 
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&theme=radical)  ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&layout=compact&theme=radical) 
 
 
 
