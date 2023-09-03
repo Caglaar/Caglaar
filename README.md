@@ -37,9 +37,9 @@ Software engineering student in Kocaeli University and 42 Ecole.
 <b>My GitHub Stats</b>
 <p align="left">
   <a href="http://www.github.com/Caglaar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="Caglaar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Caglaar's GitHub stats" />
   </a>
   <a href="https://github.com/Caglaar" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&langs_count=3&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&langs_count=3&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
