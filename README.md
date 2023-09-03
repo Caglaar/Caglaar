@@ -33,7 +33,6 @@ Software engineering student in Kocaeli University and 42 Ecole.
 </p>
 
 
-### Badges
 
 ### My GitHub Stats
 <div style="display: flex; justify-content: space-between;">
