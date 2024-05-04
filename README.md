@@ -24,10 +24,10 @@ Software engineering student in Kocaeli University
   <a href="http://www.instagram.com/em1ncaglar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-emin-çağlar-361538226" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/caglaar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.x.com/em1nc4glar" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/Caglaar_" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
   </a>
 </p>
