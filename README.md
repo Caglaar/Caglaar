@@ -1,6 +1,6 @@
 <h2>Hello there, I'm Muhammed Emin ÇAĞLAR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU3a3A1M21pd3l3N2QxNmlrYXZuaWN6OWozaXF3ejR1NWpyNjdtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width='200'/> 
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ5NDkzb3E0eWdmZzcwaW5iM3E4Y3M2aDc4cHZpbW5ieThubjhyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width='200'/> 
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglaar/) 
 [ ![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Caglaar_) 
@@ -19,11 +19,11 @@ I am a Software Engineer specializing in Backend and also interested in microser
 
 ## 🎓 Communities and Educations
 
-- Kocaeli University Software Engineer (Student) - 2021-2025
-- 42 Ecole  (Software Developer Student) - 2023-2024
-- Software Engineer Club (Core Team) - 2022-2024
-- AlgoWays Club (Team Lead) - 2022-23
-- Sabancı - Esas Holding (Scholarship) - 2024-2025
+- Kocaeli University, Software Engineering (Student) - 2021-2025
+- 42 School (Software Developer Student) - 2023-2024
+- Software Engineering Club (Core Team Member) - 2022-2024
+- AlgoWays Club (Team Lead) - 2022-2023
+- Sabancı - Esas Company (English education scholar) - 2024-2025
 
 
 
