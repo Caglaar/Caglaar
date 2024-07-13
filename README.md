@@ -5,6 +5,7 @@
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglaar/) 
 [ ![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Caglaar_) 
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Caglaar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/Caglaar/)
 
 I am a Software Engineer specializing in Backend and also interested in microservices and DevOps. I conduct in-depth research in these areas and work on current technologies and best practices.
 
