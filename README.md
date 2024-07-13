@@ -1,46 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I'm Muhammed Emin Çağlar
-================================================================================================================================================
+<h2>Hello there, I'm Muhammed Emin ÇAĞLAR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-Software engineering student in Kocaeli University
-----------------------------------------------------------------
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU3a3A1M21pd3l3N2QxNmlrYXZuaWN6OWozaXF3ejR1NWpyNjdtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width='200'/> 
 
-* 🌍  I'm based in Kocaeli
-* ✉️  You can contact me at [em1nc4glar@gmail.com](mailto:em1nc4glar@gmail.com)
-* 🧠  I'm learning Flutter and Java Backend Developer
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglaar/) 
+[ ![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Caglaar_) 
+[![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Caglaar)
 
-### Skills
+I am a Software Engineer specializing in Backend and also interested in microservices and DevOps. I conduct in-depth research in these areas and work on current technologies and best practices.
+
+## 👨‍💻 Professional Skills
+
+-  **Language:**  Java, Python, Dart
+-  **Queue:**  RabbitMQ,
+-  **DevOps:**  Docker, Docker Swarm
+-  **Database:** Relational Database (MySQL, PostgreSQL) / Non-Relational Database (MongoDB)
+-  **Mobil Programing:**  Flutter
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="36" height="36" alt="Java" /></a>
-</p>
+## 🎓 Communities and Educations
 
-
-### Socials
-<p align="left">
-  <a href="https://www.github.com/Caglaar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/em1ncaglar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/caglaar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/Caglaar_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
-</p>
+- Kocaeli University Software Engineer (Student) - 2021-2025
+- 42 Ecole  (Software Developer Student) - 2023-2024
+- Software Engineer Club (Core Team) - 2022-2024
+- AlgoWays Club (Team Lead) - 2022-23
+- Sabancı - Esas Holding (Scholarship) - 2024-2025
 
 
 
-### My GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <a href="http://www.github.com/Caglaar" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caglaar&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Caglaar's GitHub stats" />
-  </a>
-  <a href="https://github.com/Caglaar" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caglaar&langs_count=3&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
 
