@@ -1,4 +1,4 @@
-<h2>Hello there, I'm Muhammed Emin ÇAĞLAR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2>Hello there, I'm Muhammed Emin ÇAĞLAR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px", width="40px"></h2>
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ5NDkzb3E0eWdmZzcwaW5iM3E4Y3M2aDc4cHZpbW5ieThubjhyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width='200'/> 
 
