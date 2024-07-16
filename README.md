@@ -23,8 +23,8 @@ I am a Software Engineer who has qualifications in the Backend and is also inter
 
 - Kocaeli University, Software Engineering (Student) - 2021-2025
 - 42 School (Software Developer Student) - 2023-2024
-- Software Engineering Club (Core Team Member) - 2022-2024
-- AlgoWays Club (Team Lead) - 2022-2023
+- Kocaeli University, Software Engineering Club (Core Team Member) - 2022-2024
+- Kocaeli University, AlgoWays Club (Team Lead) - 2022-2023
 - Sabancı - Esas Company (English education scholar) - 2024-2025
 
 
