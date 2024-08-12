@@ -13,7 +13,6 @@ I am a Software Engineer who has qualifications in the Backend and is also inter
 ## 👨‍💻 Professional Skills
 
 -  **Language:**  Java, Python, Dart
--  **Queue:**  RabbitMQ,
 -  **DevOps:**  Docker, Docker Swarm
 -  **Database:** Relational Database (MySQL, PostgreSQL) / Non-Relational Database (MongoDB)
 -  **Mobil Programing:**  Flutter
