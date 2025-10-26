@@ -14,7 +14,7 @@ I am a Software Engineer who has qualifications in the Backend and is also inter
 
 -  **Language:**  Java, Python, Dart
 -  **DevOps:**  Docker, Docker Swarm
--  **Database:** Relational Database (MySQL, PostgreSQL) / Non-Relational Database (MongoDB)
+-  **Database:** Relational Database (MySQL, PostgreSQL) / Non-Relational Database (MongoDB) / In-Memory (Redis)
 -  **Mobil Programing:**  Flutter
 
 
